@@ -52,13 +52,7 @@
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
-        },
-         "Cineblog01": {
-            "url": "https://cineblog01.kaufen",
-            "enabled": "1",
-            "GS_ForwardProxy": "0",
-            "GS_PROXY": "1"
-        },
+        },       
         "GuardaHD": {
             "url": "https://guardahd.stream",
             "enabled": "1",
